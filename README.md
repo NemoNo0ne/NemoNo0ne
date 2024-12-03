@@ -19,6 +19,6 @@
 </div>
 
 
-  ## 📊 LeetCode Stats
+### 📊 LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/NemoNoOne?theme=dark&font=source_code_pro)
 
