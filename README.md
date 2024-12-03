@@ -17,3 +17,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="Pytest" alt="Pytest" width="40" height="40"/>
 </div>
+
+
+  ## 📊 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/NemoNoOne?theme=dark&font=source_code_pro)
+
